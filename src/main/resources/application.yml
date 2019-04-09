@@ -11,7 +11,7 @@ spring:
       server:
         git:
           password:
-          search-paths: CommonConfig
+          search-paths: /CommonConfig
           uri: https://github.com/wulivictor/springconfig
           username: 1351698648@qq.com
         default-application-name: spring-cloud
